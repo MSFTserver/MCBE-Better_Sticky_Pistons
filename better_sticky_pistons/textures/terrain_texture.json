@@ -1,0 +1,28 @@
+{
+  "padding": 8,
+  "resource_pack_name": "vanilla",
+  "num_mip_levels": 4,
+  "texture_data": {
+    "piston_top_sticky": {
+      "textures": [
+        "textures/blocks/piston_top_sticky"
+      ]
+    },
+    "piston_side_sticky": {
+       "textures": [
+         "textures/blocks/piston_side_sticky"
+       ]
+     },
+    "piston_bottom_sticky": {
+       "textures": [
+         "textures/blocks/piston_bottom_sticky"
+       ]
+    },
+    "piston_inner_sticky" : {
+       "textures" : [
+         "textures/blocks/piston_inner_sticky"
+       ]
+    },
+    "texture_name": "atlas.terrain"
+  }
+}

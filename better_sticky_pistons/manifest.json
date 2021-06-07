@@ -1,0 +1,17 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "HostsServers Better Sticky Pistons",
+        "name": "HostsServers Better Sticky Pistons",
+        "uuid": "6a2d9d93-2d1b-4326-adf7-71ce7fec0035",
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 16, 0]
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "e29330e7-6bf1-42f3-9ed3-1830b72d17c2",
+            "version": [1, 0, 0]
+        }
+    ]
+}

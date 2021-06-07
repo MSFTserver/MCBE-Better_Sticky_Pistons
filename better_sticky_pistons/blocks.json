@@ -1,0 +1,18 @@
+{
+  "sticky_piston": {
+    "textures": {
+      "side": "piston_side_sticky",
+      "up": "piston_inner_sticky",
+      "down": "piston_bottom_sticky"
+    },
+    "sound": "slime",
+    "carried_textures": {
+      "side": "piston_side_sticky",
+      "up": "piston_top_sticky",
+      "down": "piston_bottom_sticky"
+    }
+  },
+   "stickyPistonArmCollision" : {
+      "textures" : "piston_inner_sticky"
+   }
+}
